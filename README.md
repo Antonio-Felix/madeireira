@@ -4,8 +4,8 @@ Este projeto é uma aplicação web desenvolvido com Django, voltado para a gest
 
 ## 📂 Estrutura do Projeto
 
-* **`core/`**: Provavelmente contém configurações globais do projeto, como URLs e configurações gerais do Django.
-* **`madeireira/`**: Módulo principal da aplicação, possivelmente incluindo modelos, visualizações e templates específicos para o domínio da madeireira.
+* **`core/`**: Contém configurações globais do projeto, como URLs e configurações gerais do Django.
+* **`madeireira/`**: Módulo principal da aplicação, incluindo modelos, visualizações e templates específicos para o domínio da madeireira.
 * **`manage.py`**: Script padrão do Django para executar comandos administrativos.
 * **`requirements.txt`**: Lista de dependências do projeto.
 * **`README.md`**: Arquivo de documentação inicial do projeto.
@@ -16,7 +16,7 @@ Este projeto é uma aplicação web desenvolvido com Django, voltado para a gest
 
 * **Backend**: Python 3.x com o framework Django.
 * **Frontend**: HTML e CSS.
-* **Banco de Dados**: Provavelmente SQLite (padrão do Django), mas pode ser configurado para outros sistemas como PostgreSQL ou MySQL.
+* **Banco de Dados**: PostgreSQL.
 
 ---
 
