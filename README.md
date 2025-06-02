@@ -1,4 +1,4 @@
-O repositório [Antonio-Felix/madeireira](https://github.com/Antonio-Felix/madeireira) é um projeto de aplicação web desenvolvido com Django, voltado para a gestão de uma madeireira. Ele inclui funcionalidades como controle de estoque, gerenciamento de vendas e administração de produtos.
+Este projeto é uma aplicação web desenvolvido com Django, voltado para a gestão de uma madeireira. Ele inclui funcionalidades como controle de estoque, gerenciamento de vendas e administração de produtos. Desenvolvido para aprendizado do CRUD em django.
 
 ---
 
